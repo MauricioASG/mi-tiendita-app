@@ -1,0 +1,20 @@
+# Python / Django
+__pycache__/
+*.pyc
+venv/
+env/
+*.sqlite3
+.env
+
+# Node / React
+node_modules/
+dist/
+build/
+
+# Electron
+desktop/out/
+desktop/dist/
+
+# Editor / OS
+.vscode/
+.DS_Store
